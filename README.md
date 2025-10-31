@@ -12,7 +12,8 @@ Oyun, yaptığınız her tahmine göre size renkli ipuçları verir:
 
 | Oyun Sırasında (İpuçları) | Kazanma Anı (Tebrikler!) |
 | :---: | :---: |
-| ![Oyun Sırasında](<img width="548" height="362" alt="Ekran görüntüsü 2025-10-31 160023" src="https://github.com/user-attachments/assets/d6f11e02-f92a-482b-9bba-c01ee66acde2" />) 
+| ![Oyun Sırasında](<img width="548" height="362" alt="Ekran görüntüsü 2025-10-31 160023" src="https://github.com/user-attachments/assets/7c978602-d544-4559-bfa7-b1a796bdbaa1" />
+) 
 ![Kazanma Ekranı](<img width="724" height="474" alt="Ekran görüntüsü 2025-10-31 160524" src="https://github.com/user-attachments/assets/eaa9d348-573d-4fd0-a156-a9c267fbb71f" />
 ) |
 
